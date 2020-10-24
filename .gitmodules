@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:contamg/free-erp-front.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:contamg/free-erp-back.git
